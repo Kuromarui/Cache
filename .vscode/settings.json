@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "sched.h": "c",
+        "features.h": "c",
+        "types.h": "c",
+        "time_t.h": "c",
+        "struct_timespec.h": "c",
+        "cpu-set.h": "c",
+        "struct_sched_param.h": "c",
+        "cstdlib": "c",
+        "time.h": "c"
+    }
+}
